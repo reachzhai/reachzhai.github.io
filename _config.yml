@@ -1,0 +1,23 @@
+# Site settings
+title: Reach Zhai
+email: your-email@domain.com
+description: >
+  zhailong
+  description
+  for this blog.
+baseurl: "/material-jekyll-theme"
+url: "http://reachzhai.github.io"
+fixedNav: 'true' # true or false
+theme: blue # green, blue, orange, purple, grey
+twitterUsername: reachzhai
+githubUsername: reachzhai
+dribbbleUsername:
+codepenUsername:
+
+# Build settings
+permalink: /:year/:month/:title
+markdown: kramdown
+include: [_pages]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+sass:
+  style: compressed
