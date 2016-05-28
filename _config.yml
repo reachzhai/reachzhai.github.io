@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: Reach Zhai
+disqus: dbyll
 google_analytics: dbyll
 title: Reach Zhai
 
@@ -23,9 +23,9 @@ author:
   github: reachzhai
   twitter: reachzhai
   pinterest: 
-  linkedin: reachzhai
-  bio: i like here!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  linkedin: 
+  bio: I'm Reach, welcome here!
+  email_md5: /assets/media/usericon.png
 
 rss_path: feed.xml
 categories_path: categories.html

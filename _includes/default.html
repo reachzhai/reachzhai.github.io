@@ -59,7 +59,7 @@
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
+				<img src="{{site.author.email_md5}}" class="img-circle" />
 				{{ site.title }}
 			</a>
 		</div>
@@ -72,6 +72,11 @@
 				<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}">Tags</a></li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
+		
+		<!-- UY BEGIN -->
+		<div id="uyan_frame"></div>
+		<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2101737"></script>
+		<!-- UY END -->
 	</nav>
 
 	<!-- nav-menu-dropdown -->
