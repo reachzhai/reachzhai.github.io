@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: Hello World!I'ma Reach
+categories: [general]
+tags: [demo]
 fullview: true
 comments: true
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+My first Post for Reach Zhai
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
+**Reach** is coder for android, boy. live in ShangHai China, work for android 5 year, in the 5 year, 3 for android rom, 2 for android app. 
+Now , i will write my experence in this site. reachzhai.github.io  
 
-### dbyll is on GitHub
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+
+### Reach is on GitHub
+
+<a class="btn btn-default" href="https://github.com/reachzhai">Grab your copy now!</a>

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Welcome Android N
-categories: [android]
+categories: [general, android]
 tags: [reachzhai, android, welcome]
 description: Android N Preview,为 Android N 做好准备！ 在 Nexus 和其他设备上测试您的应用。支持新系统行为以节省电量和内存。 使用多窗口 UI 扩展您的应用，以便能够直接答复通知及执行其他操作。
-fullview: true 
 ---
 
 **N Developer Preview 从 2016 年 3 月 9 日开始使用，到向 AOSP 和 OEM 公开发布最终 Android N 时停止使用，预计将于 2016 年第三季度发布最终版本。**
