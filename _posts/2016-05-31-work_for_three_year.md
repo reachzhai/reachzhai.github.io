@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work For 3 years，what's the differents
-categories: [general，forward]
+categories: [general, forward]
 tags: [reachzhai, work]
 description: 工作个3年5载，一个职场新人很快就会成为一个行业里的“专业人士”。升职，可能没你想的那么简单。所以，一个工作3年的和职场新人有什么区别？……<阅读全文>
 ---
