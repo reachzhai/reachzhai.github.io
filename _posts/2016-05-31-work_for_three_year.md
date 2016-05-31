@@ -6,11 +6,12 @@ tags: [reachzhai, work]
 description: 工作个3年5载，一个职场新人很快就会成为一个行业里的“专业人士”。升职，可能没你想的那么简单。所以，一个工作3年的和职场新人有什么区别？……<阅读全文>
 ---
 # 【转】一个工作3年的和职场新人有什么区别 #
-######文章转自网络，本人[@reachzhai](zl280513013@sina.com)有所修改，页面底部有原作者信息。
+-----文章转自网络，本人[@reachzhai](https://twitter.com/reachzhai "ReachZhai")有所修改，页面底部有原作者信息。
 
 ![升职，可能没你想的那么简单](http://upload-images.jianshu.io/upload_images/45202-ec7c142aded690c8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **工作个3年5载，一个职场新人很快就会成为一个行业里的“专业人士”。**
+
 
 如果你成为星巴克的店员，你会从平时买星巴克咖啡作为客户只为享受，变成自己亲自洗杯子，磨咖啡豆，然后微笑着用一口很gay的腔调将咖啡递给客人，感受这份参与所赋予你的经历，学习品牌的魔力。
 
@@ -24,7 +25,7 @@ description: 工作个3年5载，一个职场新人很快就会成为一个行�
 
 **1. 职场技能已经娴熟**
 
-> ![职场技能已经娴熟](http://upload-images.jianshu.io/upload_images/45202-b2ce38ccfc123b1d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![职场技能已经娴熟](http://upload-images.jianshu.io/upload_images/45202-b2ce38ccfc123b1d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 他们有很熟练职场的礼仪，谢谢，您，Best regards, yours sincerely
 > 用的滚瓜烂熟，接电话先打招呼，挂电话先等客户；让领导先坐先开口，让下属记笔记，自己悄悄跟领导耳语补充意见以尊其颜面。
 > 
@@ -39,7 +40,7 @@ description: 工作个3年5载，一个职场新人很快就会成为一个行�
 
 **2. 不再羞于表达**
 
-> ![不再羞于表达](http://upload-images.jianshu.io/upload_images/45202-812aa710956f3c33.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![不再羞于表达](http://upload-images.jianshu.io/upload_images/45202-812aa710956f3c33.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 工作3到5年的人跟职场新人相比，有着相对更强的主动性。因为这些有经验的人知道，表达是工作必备工具，你不表达没人知道你的想法，没人会为你的点子付钱。而这一切跟别人眼中看的交际，开朗外向并无多大关系。
 > 
 > 
@@ -50,8 +51,8 @@ description: 工作个3年5载，一个职场新人很快就会成为一个行�
 
 **3.不再只是无脑地服从**
 
-> ![无脑服从](http://image91.360doc.com/DownloadImg/2015/11/0912/61307901_5.jpg)
-> 
+![无脑服从](http://image91.360doc.com/DownloadImg/2015/11/0912/61307901_5.jpg)
+ 
 > 就像人类和人工智能AI相比，是一个质的区别。他们考虑的问题、层次、角度、乃至方式方法都有很大区别，
 > 
 > 而工作3年的人和职场新人相比，他们实际上并不好搞，因为他们已经不是白纸，已经有了很多想法。而有时想法很能让上司开心，而有时，这些想法却很容易将领导激怒。
@@ -80,8 +81,8 @@ description: 工作个3年5载，一个职场新人很快就会成为一个行�
 
 **别再观察，找机会去参与。**
 
-
 文／皮卡弟弟（简书作者）
+
 原文链接：http://www.jianshu.com/p/12451e56c035
 
 
