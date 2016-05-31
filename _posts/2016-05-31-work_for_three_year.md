@@ -1,11 +1,11 @@
 ---
 layout: post
-title: [转]一个工作3年的和职场新人有什么区别
-categories: [general, 转载]
-tags: [reachzhai, 心情]
+title: Work For 3 years，what's the differents
+categories: [general，forward]
+tags: [reachzhai, work]
 description: 工作个3年5载，一个职场新人很快就会成为一个行业里的“专业人士”。升职，可能没你想的那么简单。所以，一个工作3年的和职场新人有什么区别？……<阅读全文>
 ---
-
+# 【转】一个工作3年的和职场新人有什么区别 #
 ######文章转自网络，本人[@reachzhai](zl280513013@sina.com)有所修改，页面底部有原作者信息。
 
 ![升职，可能没你想的那么简单](http://upload-images.jianshu.io/upload_images/45202-ec7c142aded690c8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
